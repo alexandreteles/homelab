@@ -1,0 +1,2 @@
+# homelab
+Settings, scripts, etc.
